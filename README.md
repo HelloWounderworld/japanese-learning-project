@@ -28,6 +28,8 @@
 
 　[「あなたが努力できる年齢、もう終わってます」起業家・佐藤航陽の“努力に頼らない成功法”](https://www.youtube.com/watch?v=znRPb6jsjS0)
 
+   [要約】ゆるストイック ── ノイズに邪魔されず１日を積み上げる思考【佐藤航陽】](https://www.youtube.com/watch?v=aKXOwP6yblg)
+
 ---
 
 ## 🧭 学習目標（SMART）
