@@ -20,15 +20,15 @@
 
 ## 🎯 今月のテーマ
 
-- AI：　[[grok】生成AIでのファクトチェックがXで流行？間違いも？信じるのはダメ？｜アベプラ ](https://www.youtube.com/watch?v=Vkf1ZKrASyQ)
+- AI：
+  - [【AI依存】予備群が69万人？共感力の向上で感情移入しやすく？知らずに飲めり込む？研究者に聞く｜アベプラ](https://www.youtube.com/watch?v=42_hDNFCDJo)
+  - [[grok】生成AIでのファクトチェックがXで流行？間違いも？信じるのはダメ？｜アベプラ ](https://www.youtube.com/watch?v=Vkf1ZKrASyQ)
 
 - 経済：　[【トランプ関税】ソモソモ実効性は不明？最大のチャンスという見方も？日本の勝ち筋は？｜アベプラ](https://www.youtube.com/watch?v=h8DR-2d3tgc)
 
 - 生きる姿勢：
-
-　[「あなたが努力できる年齢、もう終わってます」起業家・佐藤航陽の“努力に頼らない成功法”](https://www.youtube.com/watch?v=znRPb6jsjS0)
-
-   [要約】ゆるストイック ── ノイズに邪魔されず１日を積み上げる思考【佐藤航陽】](https://www.youtube.com/watch?v=aKXOwP6yblg)
+  - [「あなたが努力できる年齢、もう終わってます」起業家・佐藤航陽の“努力に頼らない成功法”](https://www.youtube.com/watch?v=znRPb6jsjS0)
+  - [要約】ゆるストイック ── ノイズに邪魔されず１日を積み上げる思考【佐藤航陽】](https://www.youtube.com/watch?v=aKXOwP6yblg)
 
 ---
 
