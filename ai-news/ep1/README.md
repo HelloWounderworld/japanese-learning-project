@@ -58,4 +58,487 @@ AI 全体の課題をまグロックも持っていてえで我々はそれを�
 
 要はその全とか審議とかを書いてるわけじゃなくてそれっぽいものを書くっていうのが基本的なあの AI の作り方なのでなので基本そのファクトチェックとして使うのがそもそもダめだしじゃ見もやっぱりそのいくらでも誘導できるから信用できるもんじゃないよ ねていうそのあの眉に唾をつけて見なきゃいけないものだよというのをその見る側は必ず持ってなきゃいけないと思うんですけどマ プライム進行の平石ですご視聴ありがとうございますこれ気によろしくお願いします
 
-## 知らなかった語彙
+## 📘 Vocabulário Japonês - Traduções e Explicações Detalhadas
+
+Este documento fornece explicações aprofundadas e múltiplas traduções para palavras em japonês, com exemplos práticos e contextuais para facilitar o aprendizado.
+
+### 絶賛（ぜっさん）
+
+#### Explicação:
+Significa "grande elogio", "aclamação" ou "alta apreciação". Usado para expressar que algo está sendo muito elogiado ou está em alta consideração pública.
+
+#### Exemplos:
+1. 彼の新作映画は絶賛された。  
+   _(Seu novo filme foi amplamente aclamado.)_
+
+2. 絶賛発売中です！  
+   _(Agora à venda com grande aclamação!)_
+
+#### Traduções possíveis:
+- aclamação / acclaim  
+- elogio / praise  
+- entusiasmo / enthusiasm  
+- aprovação / approval  
+- exaltação / commendation
+
+---
+
+### 備え（そなえ）
+
+#### Explicação:
+Substantivo que vem do verbo "備える" (preparar-se). Significa "preparação", "provisão" ou "reserva" para futuras emergências ou necessidades.
+
+#### Exemplos:
+1. 災害に備えが必要だ。  
+   _(É necessária preparação para desastres.)_
+
+2. 食料の備えをしている。  
+   _(Estou armazenando alimentos como precaução.)_
+
+#### Traduções possíveis:
+- preparação / preparation  
+- provisão / provision  
+- precaução / precaution  
+- reserva / reserve  
+- prontidão / readiness
+
+---
+
+### お茶独裁差異 → **お茶の間（おちゃのま）**
+
+#### Explicação:
+Aparentemente, o termo pretendido era **お茶の間**, que significa "sala de estar" ou, figurativamente, o "lar japonês" tradicional, onde a família se reúne, especialmente para ver TV.
+
+#### Exemplos:
+1. この番組はお茶の間で人気を集めている。  
+   _(Este programa fez sucesso entre as famílias.)_
+
+2. お茶の間の風景が変わってきた。  
+   _(O cenário das salas de estar está mudando.)_
+
+#### Traduções possíveis:
+- sala de estar / living room  
+- lar doméstico / household  
+- ambiente familiar / family setting  
+- casa japonesa / Japanese home  
+- cotidiano familiar / everyday family life
+
+---
+
+### 返答（へんとう）
+
+#### Explicação:
+Significa "resposta" ou "réplica", especialmente em contextos formais ou escritos.
+
+#### Exemplos:
+1. すぐに返答をください。  
+   _(Por favor, responda rapidamente.)_
+
+2. 彼の返答は予想外だった。  
+   _(A resposta dele foi inesperada.)_
+
+#### Traduções possíveis:
+- resposta / reply  
+- réplica / response  
+- retorno / answer  
+- reação / reaction  
+- feedback / feedback
+
+---
+
+### 論客（ろんきゃく）
+
+#### Explicação:
+Refere-se a uma pessoa habilidosa em argumentação ou debate, como um debatedor, comentarista ou crítico.
+
+#### Exemplos:
+1. 彼は有名な論客だ。  
+   _(Ele é um debatedor famoso.)_
+
+2. 政治番組には論客が多く出演する。  
+   _(Muitos debatedores participam de programas políticos.)_
+
+#### Traduções possíveis:
+- debatedor / debater  
+- orador / speaker  
+- pensador crítico / critical thinker  
+- comentarista / commentator  
+- polemista / polemicist
+
+---
+
+### 討論（とうろん）
+
+#### Explicação:
+Significa "discussão" ou "debate", geralmente com o objetivo de explorar diferentes pontos de vista sobre um tema.
+
+#### Exemplos:
+1. 討論のテーマは環境問題だった。  
+   _(O tema do debate foi problemas ambientais.)_
+
+2. 討論に参加したいです。  
+   _(Quero participar da discussão.)_
+
+#### Traduções possíveis:
+- debate / debate  
+- discussão / discussion  
+- mesa redonda / roundtable  
+- argumentação / argumentation  
+- troca de ideias / exchange of ideas
+
+---
+
+### ご無沙汰（ごぶさた）
+
+#### Explicação:
+Expressão educada usada para se desculpar por não ter mantido contato por um tempo. Literalmente, "ter deixado de se comunicar por um tempo".
+
+#### Exemplos:
+1. ご無沙汰しております。  
+   _(Desculpe por não ter mantido contato.)_
+
+2. 長い間ご無沙汰しています。  
+   _(Faz muito tempo desde nossa última conversa.)_
+
+#### Traduções possíveis:
+- desculpe a ausência / sorry for the silence  
+- faz tempo / long time no see  
+- ausência de contato / lack of contact  
+- distanciamento / absence  
+- interrupção de comunicação / communication break
+
+---
+
+### 信憑性（しんぴょうせい）
+
+#### Explicação:
+Refere-se à credibilidade ou confiabilidade de uma informação, fonte ou testemunho.
+
+#### Exemplos:
+1. その情報の信憑性は低い。  
+   _(A credibilidade dessa informação é baixa.)_
+
+2. 信憑性のあるデータを使う。  
+   _(Usar dados confiáveis.)_
+
+#### Traduções possíveis:
+- credibilidade / credibility  
+- confiabilidade / reliability  
+- veracidade / truthfulness  
+- autenticidade / authenticity  
+- validade / validity
+
+---
+
+### 巧妙（こうみょう）
+
+#### Explicação:
+Significa "hábil", "esperto" ou "sofisticado", especialmente ao se referir a estratégias ou técnicas engenhosas.
+
+#### Exemplos:
+1. 巧妙な戦略に驚いた。  
+   _(Fiquei surpreso com a estratégia engenhosa.)_
+
+2. 彼は巧妙に問題を回避した。  
+   _(Ele evitou o problema de forma astuta.)_
+
+#### Traduções possíveis:
+- engenhoso / clever  
+- sofisticado / sophisticated  
+- astuto / cunning  
+- habilidoso / skillful  
+- estratégico / strategic
+
+---
+
+### 規定（きてい）
+
+#### Explicação:
+Refere-se a regras, normas ou regulamentos estabelecidos oficialmente.
+
+#### Exemplos:
+1. 規定に従って処理してください。  
+   _(Siga o regulamento ao processar isso.)_
+
+2. 新しい安全規定が導入された。  
+   _(Novas normas de segurança foram implementadas.)_
+
+#### Traduções possíveis:
+- regulamento / regulation  
+- norma / rule  
+- estipulação / provision  
+- diretriz / directive  
+- determinação / stipulation
+
+---
+
+### 工定 → **校定（こうてい）**
+
+#### Explicação:
+Provável erro de escrita. O termo correto pode ser **校定**, que se refere à revisão e padronização de textos, especialmente em edição ou publicação.
+
+#### Exemplos:
+1. 校定された版が出版された。  
+   _(A edição revisada foi publicada.)_
+
+2. 校定作業には注意が必要だ。  
+   _(A revisão requer atenção.)_
+
+#### Traduções possíveis:
+- revisão textual / text revision  
+- edição / editing  
+- correção / correction  
+- padronização / standardization  
+- ajuste editorial / editorial adjustment
+
+---
+
+### 捉える（とらえる）
+
+#### Explicação:
+Verbo que significa "capturar", "compreender", "agarrar" ou "interpretar". Pode ser usado tanto literalmente quanto figurativamente.
+
+#### Exemplos:
+1. 機会をしっかり捉える。  
+   _(Aproveitar bem a oportunidade.)_
+
+2. 言葉の意味を正しく捉える。  
+   _(Compreender corretamente o significado das palavras.)_
+
+#### Traduções possíveis:
+- compreender / understand  
+- capturar / capture  
+- interpretar / interpret  
+- perceber / perceive  
+- agarrar / grasp
+
+---
+
+### 著作権（ちょさくけん）
+
+#### Explicação:
+Refere-se ao direito legal de um autor sobre suas obras intelectuais, como livros, músicas, softwares etc.
+
+#### Exemplos:
+1. 著作権を侵害してはいけない。  
+   _(Não se deve violar direitos autorais.)_
+
+2. この画像には著作権がある。  
+   _(Esta imagem possui direitos autorais.)_
+
+#### Traduções possíveis:
+- direito autoral / copyright  
+- propriedade intelectual / intellectual property  
+- licença de uso / usage license  
+- proteção de obra / work protection  
+- exclusividade de criação / creation rights
+
+---
+
+### 状況依存性（じょうきょういぞんせい）
+
+#### Explicação:
+Termo técnico que indica que algo depende do contexto ou da situação para ser compreendido corretamente.
+
+#### Exemplos:
+1. 意味は状況依存性が高い。  
+   _(O significado depende muito do contexto.)_
+
+2. 状況依存性の高い用語に注意。  
+   _(Cuidado com termos altamente dependentes do contexto.)_
+
+#### Traduções possíveis:
+- dependência do contexto / context dependence  
+- sensível à situação / situation-sensitive  
+- interpretação contextual / situational interpretation  
+- condicional / conditional  
+- dependente de circunstância / circumstance-based
+
+---
+
+### 文脈依存性（ぶんみゃくいぞんせい）
+
+#### Explicação:
+Refere-se à dependência de um termo, expressão ou ideia ao seu contexto linguístico (texto anterior ou posterior).
+
+#### Exemplos:
+1. 文脈依存性のある単語は辞書で調べにくい。  
+   _(Palavras dependentes do contexto são difíceis de procurar no dicionário.)_
+
+2. 文脈依存性を考慮した翻訳が必要。  
+   _(É necessário uma tradução que leve em conta a dependência do contexto.)_
+
+#### Traduções possíveis:
+- dependência do contexto textual / textual context dependence  
+- interpretação por contexto / context-based understanding  
+- dependência linguística / linguistic dependence  
+- análise contextual / contextual analysis  
+- sensível ao enunciado / discourse-sensitive
+
+---
+
+### 枠組み（わくぐみ）
+
+#### Explicação:
+Significa "estrutura", "quadro" ou "moldura" conceitual para algo — como leis, políticas, teorias ou sistemas.
+
+#### Exemplos:
+1. 新しい制度の枠組みが発表された。  
+   _(Foi anunciada a estrutura do novo sistema.)_
+
+2. 教育の枠組みを見直す必要がある。  
+   _(É necessário revisar o quadro educacional.)_
+
+#### Traduções possíveis:
+- estrutura / framework  
+- arcabouço / structure  
+- sistema / system  
+- moldura / framework  
+- modelo / model
+
+---
+
+### 用途（ようと）
+
+#### Explicação:
+Refere-se ao uso específico ou aplicação de algo. Muito comum em produtos, materiais e tecnologia.
+
+#### Exemplos:
+1. この薬は多くの用途がある。  
+   _(Este remédio tem muitos usos.)_
+
+2. 用途に応じて使い方を変える。  
+   _(A forma de uso muda conforme a aplicação.)_
+
+#### Traduções possíveis:
+- uso / use  
+- aplicação / application  
+- funcionalidade / functionality  
+- utilidade / utility  
+- finalidade / purpose
+
+---
+
+### 一概（いちがい）
+
+#### Explicação:
+Usado geralmente com negação, como em "一概には言えない" (não se pode generalizar). Indica uma generalização ou uniformidade.
+
+#### Exemplos:
+1. 一概に悪いとは言えない。  
+   _(Não se pode dizer que é ruim de forma geral.)_
+
+2. 一概に比較はできない。  
+   _(Não dá para comparar diretamente.)_
+
+#### Traduções possíveis:
+- generalização / generalization  
+- uniformidade / uniformity  
+- visão única / single view  
+- forma absoluta / absolute manner  
+- abordagem genérica / blanket approach
+
+---
+
+### 太鼓の昔（たいこのむかし）
+
+#### Explicação:
+Expressão idiomática que significa "tempos muito antigos", semelhante a "nos tempos antigos" ou "desde tempos imemoriais".
+
+#### Exemplos:
+1. 太鼓の昔からこの習慣がある。  
+   _(Esse costume existe desde tempos antigos.)_
+
+2. それは太鼓の昔の話だ。  
+   _(Isso é história de muito tempo atrás.)_
+
+#### Traduções possíveis:
+- tempos antigos / ancient times  
+- antigamente / long ago  
+- eras passadas / past eras  
+- desde sempre / since forever  
+- remota antiguidade / distant past
+
+---
+
+### 制約制限（せいやくせいげん）
+
+#### Explicação:
+Combinação de dois termos semelhantes: 制約 (restrição, limitação) e 制限 (limite, contenção). Usado para enfatizar limitações ou condições rígidas.
+
+#### Exemplos:
+1. 制約制限の中で最善を尽くす。  
+   _(Fazer o melhor dentro das restrições.)_
+
+2. 制約制限が多すぎて自由に動けない。  
+   _(Com tantas restrições, é difícil agir livremente.)_
+
+#### Traduções possíveis:
+- restrições / restrictions  
+- limitações / limitations  
+- impedimentos / constraints  
+- barreiras / barriers  
+- condições rígidas / strict conditions
+
+---
+
+### 新援 → **支援（しえん）**?
+
+#### Explicação:
+"新援" parece um erro. O termo correto pode ser **支援**, que significa "apoio", "assistência" ou "suporte", especialmente em contextos sociais, humanitários ou técnicos.
+
+#### Exemplos:
+1. 被災者への支援が必要だ。  
+   _(É necessário apoio às vítimas de desastres.)_
+
+2. 国際支援が行われている。  
+   _(Está sendo prestada assistência internacional.)_
+
+#### Traduções possíveis:
+- apoio / support  
+- assistência / assistance  
+- ajuda / aid  
+- colaboração / collaboration  
+- suporte / backing
+
+---
+
+### 誘導（ゆうどう）
+
+#### Explicação:
+Significa "guiar", "direcionar" ou "induzir". Pode ser literal (conduzir alguém) ou figurativo (influenciar uma decisão).
+
+#### Exemplos:
+1. 警備員が人々を出口に誘導した。  
+   _(O segurança guiou as pessoas até a saída.)_
+
+2. その質問は答えを誘導していた。  
+   _(A pergunta induzia a resposta.)_
+
+#### Traduções possíveis:
+- condução / guidance  
+- indução / induction  
+- orientação / direction  
+- influência / influence  
+- manipulação / steering
+
+---
+
+### 眉に唾をつけた形で見ないといけないもの
+
+#### Explicação:
+Expressão idiomática que significa "ver com desconfiança" ou "duvidar da veracidade de algo". Literalmente, "precisa olhar com saliva na sobrancelha" — uma superstição antiga para afastar mentiras.
+
+#### Exemplos:
+1. このニュースは眉に唾をつけた形で見た方がいい。  
+   _(É melhor olhar para essa notícia com desconfiança.)_
+
+2. 眉に唾をつけて聞いておいた。  
+   _(Ouvi com certo ceticismo.)_
+
+#### Traduções possíveis:
+- com desconfiança / with suspicion  
+- com ceticismo / skeptically  
+- com pé atrás / with a grain of salt  
+- desconfiar / be doubtful  
+- não levar ao pé da letra / not take at face value

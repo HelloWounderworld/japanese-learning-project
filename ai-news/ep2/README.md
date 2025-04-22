@@ -88,13 +88,13 @@
 
 チャンネル登録よろしくお願いします
 
-## 知らなかった語彙
-
-# 📘 Vocabulário Japonês - Traduções e Explicações Detalhadas
+## 📘 Vocabulário Japonês - Traduções e Explicações Detalhadas
 
 Este documento fornece explicações aprofundadas e múltiplas traduções para palavras em japonês, com exemplos práticos e contextuais para facilitar o aprendizado.
 
 ---
+
+### 普及
 
 ### 包括的（ほうかつてき）
 
