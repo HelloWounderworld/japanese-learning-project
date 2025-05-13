@@ -68,33 +68,299 @@
 
 ## 📘 Vocabulário Japonês - Traduções e Explicações Detalhadas
 
-### 関税
+### 関税（かんぜい）
 
-### 総互関税
+#### Explicação:
+Refere-se a tarifas alfandegárias aplicadas sobre bens importados. São impostas pelos governos para proteger a indústria local ou gerar receita.
 
-### 貿易赤字
+#### Exemplos:
+1. 政府は関税を引き上げた。  
+   _(O governo aumentou as tarifas alfandegárias.)_
 
-### 措置
+2. 関税の撤廃が交渉の焦点となっている。  
+   _(A eliminação das tarifas é o foco da negociação.)_
 
-### 攻略
+#### Traduções possíveis:
+- tarifa / tariff  
+- imposto de importação / import tax  
+- direito aduaneiro / customs duty  
+- taxa alfandegária / customs tariff  
+- tributo sobre importação / import levy
 
-### 世界教皇
+---
 
-### 漁夫の利
+### 総互関税（そうごかんぜい）
 
-### 襟
+#### Explicação:
+Termo composto que pode ser interpretado como "tarifas recíprocas globais" ou "tarifas mútuas gerais", referindo-se ao sistema de tarifação entre países com base na reciprocidade.
 
-### 通称政策
+#### Exemplos:
+1. 総互関税の導入で貿易摩擦が増加した。  
+   _(A introdução de tarifas recíprocas aumentou os atritos comerciais.)_
 
-### 政権批判
+2. 総互関税政策は国際協定と矛盾する可能性がある。  
+   _(Políticas de tarifas mútuas podem entrar em conflito com acordos internacionais.)_
 
-### 経済秩序
+#### Traduções possíveis:
+- tarifas recíprocas / reciprocal tariffs  
+- tarifas mútuas / mutual customs  
+- sistema tarifário bilateral / bilateral tariff system  
+- acordos alfandegários recíprocos / reciprocal customs agreements  
+- tributação internacional recíproca / international mutual taxation
 
-### 品目別
+---
 
-### 新規
+### 貿易赤字（ぼうえきあかじ）
 
-### 稼働率
+#### Explicação:
+Indica que o valor das importações de um país excede o valor das suas exportações, resultando em déficit comercial.
+
+#### Exemplos:
+1. 日本の貿易赤字が過去最大を記録した。  
+   _(O déficit comercial do Japão atingiu um recorde histórico.)_
+
+2. 貿易赤字は通貨価値に影響を与える。  
+   _(O déficit comercial afeta o valor da moeda.)_
+
+#### Traduções possíveis:
+- déficit comercial / trade deficit  
+- saldo negativo de comércio / negative trade balance  
+- desequilíbrio comercial / commercial imbalance  
+- déficit nas exportações / export shortfall  
+- balança comercial negativa / negative trade balance
+
+---
+
+### 措置（そち）
+
+#### Explicação:
+Refere-se a medidas ou providências tomadas para lidar com uma situação. Muito usado em contextos formais, jurídicos e administrativos.
+
+#### Exemplos:
+1. 緊急措置が取られた。  
+   _(Medidas emergenciais foram tomadas.)_
+
+2. 政府は新しい環境措置を発表した。  
+   _(O governo anunciou novas medidas ambientais.)_
+
+#### Traduções possíveis:
+- medida / measure  
+- providência / action  
+- disposição / arrangement  
+- regulamentação / regulation  
+- iniciativa / initiative
+
+---
+
+### 攻略（こうりゃく）
+
+#### Explicação:
+Significa "conquista", "estratégia de superação" ou "domínio de algo difícil", como em jogos, testes ou desafios.
+
+#### Exemplos:
+1. このゲームの攻略法を教えてください。  
+   _(Me diga como vencer esse jogo.)_
+
+2. 試験攻略のために勉強している。  
+   _(Estou estudando para conquistar a prova.)_
+
+#### Traduções possíveis:
+- conquista / conquest  
+- solução estratégica / strategy  
+- superação / overcoming  
+- manual de jogo / game guide  
+- domínio / mastery
+
+---
+
+### 世界教皇（せかいきょうこう）
+
+#### Explicação:
+Parece ser uma junção incomum. Pode estar se referindo ao **Papa (教皇)** no contexto global. Se for isso, o termo correto seria **ローマ教皇** ou **世界の教皇**.
+
+#### Exemplos:
+1. 世界教皇が人道について演説した。  
+   _(O Papa falou sobre humanitarismo a nível mundial.)_
+
+2. 世界教皇の訪問が話題を呼んだ。  
+   _(A visita do Papa ao mundo causou grande repercussão.)_
+
+#### Traduções possíveis:
+- Papa / Pope  
+- líder da Igreja Católica / Catholic leader  
+- sumo pontífice / pontiff  
+- representante global da fé / global faith leader  
+- chefe da Igreja / head of the Church
+
+---
+
+### 漁夫の利（ぎょふのり）
+
+#### Explicação:
+Expressão idiomática que equivale a "terceiro que lucra com a briga dos outros". Literalmente, "o pescador se beneficia da briga entre a garça e a concha".
+
+#### Exemplos:
+1. ライバル同士が争っている間に、彼が漁夫の利を得た。  
+   _(Enquanto os rivais brigavam, ele colheu os frutos.)_
+
+2. この状況では第三者が漁夫の利を得る可能性がある。  
+   _(Um terceiro pode se beneficiar dessa disputa.)_
+
+#### Traduções possíveis:
+- vantagem de terceiros / third-party advantage  
+- lucros inesperados / unexpected gain  
+- benefício indireto / indirect benefit  
+- tirar proveito / take advantage  
+- lucro alheio / outsider’s gain
+
+---
+
+### 襟（えり）
+
+#### Explicação:
+Refere-se à gola de roupas. Também pode ser usado figurativamente para representar postura ou comportamento.
+
+#### Exemplos:
+1. シャツの襟が汚れている。  
+   _(A gola da camisa está suja.)_
+
+2. 襟を正して話を聞く。  
+   _(Ouvir com atenção e respeito — "ajustar a gola".)_  
+
+#### Traduções possíveis:
+- gola / collar  
+- colarinho / neckline  
+- parte superior da roupa / upper garment part  
+- figurativamente: compostura / composure  
+- respeito / respect (em expressão idiomática)
+
+---
+
+### 通称政策（つうしょうせいさく）
+
+#### Explicação:
+Parece ser uma fusão de termos. Pode estar se referindo a **通商政策 (つうしょうせいさく)**, que significa "política comercial".
+
+#### Exemplos:
+1. 政府は新しい通商政策を導入した。  
+   _(O governo implementou uma nova política comercial.)_
+
+2. 通商政策が経済に大きな影響を及ぼす。  
+   _(As políticas comerciais afetam fortemente a economia.)_
+
+#### Traduções possíveis:
+- política comercial / trade policy  
+- diretrizes de comércio / commerce guidelines  
+- estratégia de exportação / export strategy  
+- relações comerciais / trade relations  
+- plano econômico internacional / international economic plan
+
+---
+
+### 政権批判（せいけんひはん）
+
+#### Explicação:
+Refere-se à crítica ao governo em exercício ou ao regime político atual.
+
+#### Exemplos:
+1. 野党が政権批判を強めている。  
+   _(A oposição está intensificando as críticas ao governo.)_
+
+2. 政権批判の声が広がっている。  
+   _(As críticas ao regime estão se espalhando.)_
+
+#### Traduções possíveis:
+- crítica ao governo / government criticism  
+- oposição política / political opposition  
+- reprovação do regime / regime disapproval  
+- contestação política / political challenge  
+- censura governamental / government disapproval
+
+---
+
+### 経済秩序（けいざいちつじょ）
+
+#### Explicação:
+Significa "ordem econômica", referindo-se à estrutura ou sistema que rege as relações econômicas nacionais ou internacionais.
+
+#### Exemplos:
+1. 新しい経済秩序が求められている。  
+   _(Um novo sistema econômico está sendo exigido.)_
+
+2. 経済秩序の崩壊が懸念されている。  
+   _(Há preocupação com o colapso da ordem econômica.)_
+
+#### Traduções possíveis:
+- ordem econômica / economic order  
+- sistema econômico / economic system  
+- estrutura financeira / financial structure  
+- regime econômico / economic regime  
+- organização econômica / economic organization
+
+---
+
+### 品目別（ひんもくべつ）
+
+#### Explicação:
+Significa "por item" ou "classificado por categoria de produto". Muito usado em estatísticas comerciais e alfandegárias.
+
+#### Exemplos:
+1. 品目別に輸出入データを整理する。  
+   _(Organizar dados de importação/exportação por item.)_
+
+2. 品目別関税が適用される。  
+   _(As tarifas são aplicadas por categoria de produto.)_
+
+#### Traduções possíveis:
+- por item / itemized  
+- por categoria / by category  
+- classificado por produto / product-based  
+- segmentado / segmented  
+- por tipo / by type
+
+---
+
+### 新規（しんき）
+
+#### Explicação:
+Significa "novo", "recente" ou "iniciado agora". Usado para descrever clientes novos, novos casos ou novos registros.
+
+#### Exemplos:
+1. 新規顧客を対象にキャンペーンを実施する。  
+   _(Realizar uma campanha para novos clientes.)_
+
+2. 今日の新規感染者数は100人だ。  
+   _(Hoje houve 100 novos casos de infecção.)_
+
+#### Traduções possíveis:
+- novo / new  
+- recente / recent  
+- início / initial  
+- recém-adicionado / newly added  
+- caso novo / fresh case
+
+---
+
+### 稼働率（かどうりつ）
+
+#### Explicação:
+Refere-se à taxa de operação ou de uso efetivo de uma máquina, sistema ou instalação.
+
+#### Exemplos:
+1. 工場の稼働率が90%に達した。  
+   _(A taxa de operação da fábrica atingiu 90%.)_
+
+2. 稼働率を上げるために改善が必要だ。  
+   _(São necessárias melhorias para aumentar a eficiência.)_
+
+#### Traduções possíveis:
+- taxa de operação / operating rate  
+- índice de utilização / utilization rate  
+- produtividade / productivity  
+- eficiência / efficiency rate  
+- grau de atividade / activity level
+
+---
 
 ### 有権者
 
