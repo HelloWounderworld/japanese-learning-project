@@ -362,16 +362,133 @@ Refere-se à taxa de operação ou de uso efetivo de uma máquina, sistema ou in
 
 ---
 
-### 有権者
+### 有権者（ゆうけんしゃ）
 
-### 報復関税
+#### Explicação:
+Refere-se a uma pessoa que possui direito legal de votar em eleições. É um termo comum em contextos políticos e eleitorais.
 
-### 貿易赤字
+#### Exemplos:
+1. 有権者の関心が低下している。  
+   _(O interesse dos eleitores está diminuindo.)_
 
-### 伴う
+2. 有権者としての責任を果たすべきだ。  
+   _(Devemos cumprir nosso dever como eleitores.)_
 
-### 担保する
+#### Traduções possíveis:
+- eleitor / voter  
+- cidadão com direito a voto / enfranchised citizen  
+- votante / eligible voter  
+- participante eleitoral / electoral participant  
+- titular de voto / vote holder
 
-### 供給
+---
 
-### 潜在一隅
+### 報復関税（ほうふくかんぜい）
+
+#### Explicação:
+Tarifa aplicada como resposta a tarifas impostas por outro país. É uma medida de retaliação comum em disputas comerciais internacionais.
+
+#### Exemplos:
+1. 中国はアメリカに報復関税を課した。  
+   _(A China impôs tarifas de retaliação aos EUA.)_
+
+2. 報復関税が貿易戦争を悪化させる。  
+   _(As tarifas retaliatórias agravam a guerra comercial.)_
+
+#### Traduções possíveis:
+- tarifa de retaliação / retaliatory tariff  
+- imposto compensatório / counter-tariff  
+- tarifa vingativa / revenge tariff  
+- medida protecionista / protectionist measure  
+- imposto de resposta / response duty
+
+---
+
+### 貿易赤字（ぼうえきあかじ） *(repetido)*
+
+#### Explicação:
+Ver entrada anterior neste documento. (Já foi incluída anteriormente com exemplos e traduções.)
+
+---
+
+### 伴う（ともなう）
+
+#### Explicação:
+Verbo que significa "acompanhar", "envolver" ou "resultar em". Usado para descrever ações ou estados que ocorrem simultaneamente ou como consequência.
+
+#### Exemplos:
+1. 成功にはリスクが伴う。  
+   _(O sucesso vem acompanhado de riscos.)_
+
+2. 人事異動に伴って部署が変更された。  
+   _(Com a mudança de pessoal, o departamento foi alterado.)_
+
+#### Traduções possíveis:
+- acompanhar / accompany  
+- envolver / involve  
+- resultar em / result in  
+- implicar / entail  
+- estar associado a / be associated with
+
+---
+
+### 担保する（たんぽする）
+
+#### Explicação:
+Verbo que significa "garantir", "assegurar" ou "oferecer como garantia". Muito usado em contextos financeiros, jurídicos e contratuais.
+
+#### Exemplos:
+1. 権利を担保する法律が必要だ。  
+   _(Leis que garantam os direitos são necessárias.)_
+
+2. 銀行に土地を担保として差し出した。  
+   _(Ofereci a terra como garantia ao banco.)_
+
+#### Traduções possíveis:
+- garantir / guarantee  
+- assegurar / ensure  
+- respaldar / secure  
+- dar como garantia / pledge  
+- salvaguardar / safeguard
+
+---
+
+### 供給（きょうきゅう）
+
+#### Explicação:
+Significa "oferta" ou "fornecimento" de bens, serviços ou energia. Frequentemente usado em economia e logística.
+
+#### Exemplos:
+1. 電力の供給が不安定だ。  
+   _(O fornecimento de energia está instável.)_
+
+2. 市場への商品供給が遅れている。  
+   _(A oferta de produtos ao mercado está atrasada.)_
+
+#### Traduções possíveis:
+- fornecimento / supply  
+- oferta / offering  
+- distribuição / distribution  
+- provisão / provision  
+- entrega / delivery
+
+---
+
+### 潜在一隅（せんざいいちぐう）
+
+#### Explicação:
+Expressão filosófica derivada do budismo zen e do pensamento confucionista. Significa literalmente "iluminar um canto escondido", e é usada para descrever a ideia de fazer o bem em seu próprio lugar, mesmo sendo pequeno ou insignificante.
+
+#### Exemplos:
+1. 潜在一隅を照らすのが人生の目的だ。  
+   _(Iluminar seu pequeno canto do mundo é o propósito da vida.)_
+
+2. 彼は潜在一隅の精神で地域活動に取り組んでいる。  
+   _(Ele participa de atividades locais com o espírito de iluminar onde está.)_
+
+#### Traduções possíveis:
+- iluminar onde está / shine where you are  
+- fazer o bem no seu canto / do good in your corner  
+- dar luz ao seu entorno / enlighten your surroundings  
+- contribuir localmente / contribute locally  
+- agir com bondade no pequeno / act with kindness in your place
