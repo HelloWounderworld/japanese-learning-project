@@ -87,72 +87,724 @@
 
 けってことももう1回さっきのような ちょっと他人事として分析してみるデータ をつってみて分析してみるってことを見る となんか自分のこと全然分かってないなっ てことも多分認識できると思いますし 分かったような分からないような話って いういやそうなんですよね佐藤さん今日は 長時間でしたありがとうございまし ありがとうございますありご [音楽]
 
-## 📘 Vocabulário Japonês - Traduções e Explicações Detalhadas
+# 📘 Vocabulário Japonês - Traduções e Explicações Detalhadas (Parte 2)
 
-### 惰性
+---
 
-### 制御
+### 惰性（だせい）
 
-### 時間軸
+#### Explicação:
+"Inércia" tanto no sentido físico quanto comportamental. Indica a continuação de algo apenas por hábito ou falta de motivação para mudar.
 
-### 代替わり
+#### Exemplos:
+1. 彼は惰性でその仕事を続けている。  
+   _(Ele continua nesse trabalho apenas por inércia.)_
 
-### 莫大
+2. 惰性に流されず、意識的に行動しよう。  
+   _(Vamos agir conscientemente, sem ser levados pela inércia.)_
 
-### 余勢
+#### Traduções:
+- inércia / inertia  
+- hábito automático / automatic habit  
+- rotina / routine  
+- letargia / lethargy  
+- estagnação / stagnation
 
-### 新陳代謝
+---
 
-### 自粛
+### 制御（せいぎょ）
 
-### 脱成長系
+#### Explicação:
+Ato de controlar ou regular algo — desde sistemas mecânicos até emoções ou comportamentos.
 
-### 遡って
+#### Exemplos:
+1. 感情を制御するのは難しい。  
+   _(É difícil controlar as emoções.)_
 
-### 独自性
+2. ロボットの動きを制御するシステム。  
+   _(Sistema que controla os movimentos do robô.)_
 
-### 発揮
+#### Traduções:
+- controle / control  
+- regulação / regulation  
+- gerenciamento / management  
+- contenção / restraint  
+- comando / command
 
-### 既存の仕組み
+---
 
-### 典型
+### 時間軸（じかんじく）
 
-### 肝なので
+#### Explicação:
+"Tempo cronológico" ou linha do tempo. Usado para análises históricas, planejamento ou perspectivas de longo prazo.
 
-### 委ねる
+#### Exemplos:
+1. この物語は複数の時間軸で進行する。  
+   _(Essa história se desenvolve em múltiplas linhas do tempo.)_
 
-### 捉える
+2. 時間軸を長くとって考えよう。  
+   _(Vamos pensar em uma perspectiva de longo prazo.)_
 
-### 歪む
+#### Traduções:
+- linha do tempo / timeline  
+- eixo temporal / time axis  
+- cronologia / chronology  
+- perspectiva temporal / temporal perspective  
+- escala de tempo / time scale
 
-### 自助論
+---
 
-### 権力者
+### 代替わり（だいがわり）
 
-### 自己啓発
+#### Explicação:
+Refere-se à sucessão de gerações ou liderança, como na monarquia ou empresas familiares.
 
-### 染み込む
+#### Exemplos:
+1. 天皇の代替わりが行われた。  
+   _(Houve a sucessão imperial.)_
 
-### 社会の秩序
+2. 社長の代替わりで方針が変わった。  
+   _(A sucessão do presidente mudou a política da empresa.)_
 
-### 反乱
+#### Traduções:
+- sucessão / succession  
+- mudança de geração / generational change  
+- transição / transition  
+- troca de liderança / leadership change  
+- herança / inheritance (contextual)
 
-### 暴動
+---
 
-### 公正世界仮設
+### 莫大（ばくだい）
 
-### 倫理的
+#### Explicação:
+Extremamente grande em quantidade, número ou escala. Usado para descrever riqueza, dados, custos, etc.
 
-### 節理
+#### Exemplos:
+1. 莫大な費用がかかった。  
+   _(Custou uma quantia enorme.)_
 
-### 縛る
+2. 莫大なデータを処理するシステム。  
+   _(Sistema que processa uma quantidade imensa de dados.)_
 
-### 拝読
+#### Traduções:
+- imenso / immense  
+- enorme / enormous  
+- colossal / colossal  
+- vasto / vast  
+- maciço / massive
 
-### 自己効用感
+---
 
-### 報酬系
+### 余勢（よせい）
 
-### 陥る
+#### Explicação:
+Impulso ou força remanescente de um movimento anterior. Pode ser usado metaforicamente para descrever uma ação continuada por impulso anterior.
 
-### 棚卸し
+#### Exemplos:
+1. 余勢を駆って成功を収めた。  
+   _(Aproveitou o impulso anterior e teve sucesso.)_
+
+2. 勢いに乗って、余勢で別のプロジェクトも進めた。  
+   _(Seguindo o embalo, tocou outro projeto com o impulso restante.)_
+
+#### Traduções:
+- impulso restante / remaining momentum  
+- energia residual / residual force  
+- embalo / follow-through  
+- força adquirida / gained momentum  
+- continuidade impulsiva / continued drive
+
+---
+
+### 新陳代謝（しんちんたいしゃ）
+
+#### Explicação:
+Metabolismo — tanto no sentido biológico quanto metafórico (renovação de ideias, sistemas, etc).
+
+#### Exemplos:
+1. 新陳代謝が活発な若者。  
+   _(Jovens com metabolismo ativo.)_
+
+2. 社会の新陳代謝が必要だ。  
+   _(A sociedade precisa de renovação.)_
+
+#### Traduções:
+- metabolismo / metabolism  
+- renovação / renewal  
+- reciclagem / regeneration  
+- substituição / replacement  
+- atualização / update
+
+---
+
+### 自粛（じしゅく）
+
+#### Explicação:
+Ato de se abster voluntariamente de algo por consideração social ou moral.
+
+#### Exemplos:
+1. 自粛期間中は外出を控えた。  
+   _(Durante o período de auto-restrição, evitei sair.)_
+
+2. 彼は発言を自粛した。  
+   _(Ele se absteve de fazer comentários.)_
+
+#### Traduções:
+- auto-restrição / self-restraint  
+- abstenção voluntária / voluntary restraint  
+- autocontrole / self-control  
+- contenção pessoal / personal limitation  
+- recuo / withdrawal
+
+---
+
+### 脱成長系（だつせいちょうけい）
+
+#### Explicação:
+Conceito sociopolítico que propõe uma economia desacelerada ou sustentável, que rejeita o crescimento ilimitado.
+
+#### Exemplos:
+1. 脱成長系の経済モデルが注目されている。  
+   _(O modelo econômico do decrescimento está ganhando atenção.)_
+
+2. 脱成長系の思想は環境意識と結びついている。  
+   _(A filosofia do decrescimento está ligada à consciência ambiental.)_
+
+#### Traduções:
+- decrescimento / degrowth  
+- economia sustentável / sustainable economy  
+- pós-crescimento / post-growth  
+- desaceleração econômica / economic slowdown  
+- antidesenvolvimentismo / anti-growth ideology
+
+---
+
+### 遡って（さかのぼって）
+
+#### Explicação:
+Indica retroceder no tempo, normalmente em investigações, análises ou reflexões.
+
+#### Exemplos:
+1. 10年前に遡って調査した。  
+   _(Investigaram retroativamente até 10 anos atrás.)_
+
+2. 起源を遡って考えると面白い。  
+   _(É interessante pensar na origem retroativamente.)_
+
+#### Traduções:
+- retroativamente / retroactively  
+- voltando no tempo / going back in time  
+- em retrospectiva / in retrospect  
+- regressivamente / regressively  
+- desde o início / tracing back
+
+---
+
+(continua com as próximas palavras...)
+
+### 独自性（どくじせい）
+
+#### Explicação:
+Refere-se à "originalidade" ou "característica única" de algo ou alguém. É a qualidade de ser distinto, não imitado, ou ter identidade própria. Pode ser usada em contextos criativos, acadêmicos, empresariais ou de personalidade.
+
+#### Exemplos:
+1. 彼女の作品には高い独自性がある。  
+   _(As obras dela têm uma originalidade marcante.)_
+
+2. 会社は独自性を強みにしている。  
+   _(A empresa valoriza sua identidade única como ponto forte.)_
+
+#### Traduções possíveis:
+- originalidade / originality  
+- singularidade / uniqueness  
+- identidade própria / own identity  
+- autenticidade / authenticity  
+- individualidade / individuality  
+- caráter exclusivo / distinctiveness  
+- inovação própria / original innovation
+
+---
+
+### 発揮（はっき）
+
+#### Explicação:
+Significa "demonstrar", "exibir", "colocar em prática" uma habilidade, talento ou qualidade. É frequentemente usada para descrever a manifestação de força, liderança, criatividade, etc.
+
+#### Exemplos:
+1. 選手は試合で実力を発揮した。  
+   _(O atleta demonstrou todo seu potencial na partida.)_
+
+2. チームワークが発揮された瞬間だった。  
+   _(Foi um momento em que o trabalho em equipe brilhou.)_
+
+#### Traduções possíveis:
+- demonstração / demonstration  
+- expressão / expression  
+- exibição / display  
+- aplicação / application  
+- exercício (de habilidade) / exercise (of ability)  
+- manifestação / manifestation  
+- uso efetivo / effective use
+
+---
+
+### 既存の仕組み（きそんのしくみ）
+
+#### Explicação:
+Expressão que significa "estrutura existente" ou "sistema já implementado". Usada para se referir a métodos, mecanismos ou instituições que já estão em funcionamento.
+
+#### Exemplos:
+1. 既存の仕組みでは対応できない。  
+   _(O sistema atual não consegue lidar com isso.)_
+
+2. 既存の仕組みを改善する必要がある。  
+   _(É necessário melhorar a estrutura atual.)_
+
+#### Traduções possíveis:
+- sistema existente / existing system  
+- estrutura atual / current structure  
+- mecanismo vigente / current mechanism  
+- organização pré-estabelecida / pre-established organization  
+- configuração atual / existing setup  
+- funcionamento herdado / inherited framework  
+- modelo tradicional / traditional model
+
+---
+
+### 典型（てんけい）
+
+#### Explicação:
+Significa "exemplo típico", "modelo representativo" ou "caso clássico". Usado para descrever algo que representa bem uma categoria, classe ou padrão.
+
+#### Exemplos:
+1. 彼は典型的な日本人の働き方をしている。  
+   _(Ele trabalha de uma forma que é típica dos japoneses.)_
+
+2. この病気は典型的な症状を示す。  
+   _(Esta doença apresenta sintomas clássicos.)_
+
+#### Traduções possíveis:
+- exemplo típico / typical example  
+- arquétipo / archetype  
+- modelo / model  
+- padrão / standard  
+- representação / representation  
+- caso clássico / classic case  
+- protótipo / prototype
+
+---
+
+### 肝なので（きもなので）
+
+#### Explicação:
+"肝" (kimo) significa "essência", "núcleo", ou "ponto crucial". A expressão "肝なので" é uma forma coloquial de dizer "porque é essencial" ou "porque é o ponto-chave". Muito usada para enfatizar a importância de algo.
+
+#### Exemplos:
+1. 信頼関係が肝なので、時間をかけて築くべきだ。  
+   _(Como a confiança é essencial, deve-se construí-la com tempo.)_
+
+2. 説明は簡潔にするのが肝なので、注意して。  
+   _(Como a concisão é o ponto-chave, preste atenção.)_
+
+#### Traduções possíveis:
+- porque é essencial / because it is essential  
+- pois é o ponto-chave / as it is the key point  
+- já que é o núcleo / since it is the core  
+- por ser crucial / due to being crucial  
+- por ser o foco / because it is the focus  
+- elemento central / central element  
+- ponto vital / vital point
+
+---
+
+### 委ねる（ゆだねる）
+
+#### Explicação:
+Verbo que significa "confiar", "delegar" ou "deixar nas mãos de alguém". Implica um ato de entrega, geralmente com confiança ou aceitação.
+
+#### Exemplos:
+1. すべてを彼に委ねた。  
+   _(Deixei tudo nas mãos dele.)_
+
+2. 運命を天に委ねるしかない。  
+   _(Só resta confiar o destino ao céu.)_
+
+#### Traduções possíveis:
+- confiar (a algo/alguém) / entrust  
+- delegar / delegate  
+- entregar / hand over  
+- deixar sob responsabilidade / leave to  
+- submeter-se / submit  
+- passar o controle / yield control  
+- depositar confiança / place trust
+
+---
+
+### 捉える（とらえる）
+
+#### Explicação:
+Verbo multifuncional que pode significar "capturar", "entender", "interpretar", "agarrar" (literal ou figurativamente). Muito utilizado em contextos intelectuais e emocionais.
+
+#### Exemplos:
+1. 問題の本質を正しく捉えることが大切だ。  
+   _(É importante captar corretamente a essência do problema.)_
+
+2. カメラでその瞬間を捉えた。  
+   _(Capturei aquele instante com a câmera.)_
+
+#### Traduções possíveis:
+- capturar / capture  
+- entender / understand  
+- interpretar / interpret  
+- perceber / perceive  
+- agarrar / grasp  
+- reconhecer / recognize  
+- apreender / apprehend
+
+---
+
+### 歪む（ゆがむ）
+
+#### Explicação:
+Significa "distorcer-se", "entortar", "ficar deformado" — tanto fisicamente quanto metaforicamente (por exemplo, um julgamento distorcido).
+
+#### Exemplos:
+1. 鏡に映った顔が歪んで見える。  
+   _(O rosto refletido no espelho parece distorcido.)_
+
+2. 妬みによって彼の判断が歪んでしまった。  
+   _(O julgamento dele foi distorcido pela inveja.)_
+
+#### Traduções possíveis:
+- distorcer-se / be distorted  
+- entortar / warp  
+- deformar-se / deform  
+- corromper-se / be corrupted  
+- desfigurar-se / be disfigured  
+- alterar-se / be altered  
+- desviar-se / deviate
+
+---
+
+### 自助論（じじょろん）
+
+#### Explicação:
+Doutrina que defende o autoaperfeiçoamento e a responsabilidade pessoal como chaves para o sucesso. Muito associada ao pensamento de Samuel Smiles, autor do livro “Self-Help”.
+
+#### Exemplos:
+1. 彼は自助論を信条としている。  
+   _(Ele vive com base na filosofia da autoajuda.)_
+
+2. 自助論に基づいた教育が注目されている。  
+   _(A educação baseada na autossuficiência está ganhando atenção.)_
+
+#### Traduções possíveis:
+- doutrina da autoajuda / self-help doctrine  
+- filosofia da autossuficiência / self-reliance philosophy  
+- pensamento individualista / individualistic thought  
+- ética da responsabilidade pessoal / personal responsibility ethics  
+- ideologia do mérito próprio / merit-based ideology
+
+---
+
+### 権力者（けんりょくしゃ）
+
+#### Explicação:
+Pessoa que detém poder político, econômico ou social. Pode ser usada de forma neutra ou crítica, dependendo do contexto.
+
+#### Exemplos:
+1. 権力者の意向に逆らうことは難しい。  
+   _(É difícil ir contra a vontade dos poderosos.)_
+
+2. 権力者は責任を持って行動すべきだ。  
+   _(Os detentores de poder devem agir com responsabilidade.)_
+
+#### Traduções possíveis:
+- pessoa poderosa / powerful person  
+- autoridade / authority  
+- governante / ruler  
+- elite / elite  
+- detentor de poder / power holder  
+- líder dominante / dominant leader  
+- figura de poder / figure of power
+
+---
+
+### 自己啓発（じこけいはつ）
+
+#### Explicação:
+Refere-se ao processo de autoaperfeiçoamento, desenvolvimento pessoal ou busca por crescimento interior. Muito comum em livros, seminários e coaching.
+
+#### Exemplos:
+1. 自己啓発の本をたくさん読んでいる。  
+   _(Estou lendo muitos livros de autoajuda.)_
+
+2. 自己啓発セミナーに参加した。  
+   _(Participei de um seminário de desenvolvimento pessoal.)_
+
+#### Traduções possíveis:
+- desenvolvimento pessoal / personal development  
+- autoaperfeiçoamento / self-improvement  
+- autoajuda / self-help  
+- crescimento interior / inner growth  
+- evolução pessoal / personal evolution  
+- aprimoramento individual / individual enhancement
+
+## 1. **染み込む (しみこむ / Shimikomu)**
+
+### Traduções Possíveis:
+- **Imbuir**
+- **Penetrar**
+- **Absorver**
+- **Infiltrar**
+- **Incorporar**
+
+### Explicação:
+Refere-se ao ato de algo se misturar ou se integrar profundamente em outra substância ou conceito. É frequentemente usado em contextos que envolvem aprendizado ou influência cultural.
+
+### Exemplos:
+- **Cultural**:  
+  *"Os valores da tradição se imbuíram na nova geração."*  
+- **Físico**:  
+  *"O vinho se infiltrou na madeira, dando um sabor único."*
+
+---
+
+## 2. **社会の秩序 (しゃかいのちつじょ / Shakai no Chitsujo)**
+
+### Traduções Possíveis:
+- **Ordem Social**
+- **Estrutura Social**
+- **Organização Social**
+- **Sistema Social**
+- **Equilíbrio Social**
+
+### Explicação:
+Refere-se à maneira como uma sociedade é organizada e estruturada, incluindo normas, regras e hierarquias que mantêm a coesão social.
+
+### Exemplos:
+- **Sociológico**:  
+  *"A ordem social é fundamental para a estabilidade de uma comunidade."*  
+- **Político**:  
+  *"Mudanças na ordem social podem levar a revoltas."*
+
+---
+
+## 3. **反乱 (はんらん / Hanran)**
+
+### Traduções Possíveis:
+- **Revolta**
+- **Insurreição**
+- **Rebelião**
+- **Motim**
+- **Levante**
+
+### Explicação:
+Refere-se a um ato de resistência ou desobediência contra uma autoridade estabelecida, geralmente em um contexto político.
+
+### Exemplos:
+- **Histórico**:  
+  *"A revolta foi rapidamente reprimida pelas forças do governo."*  
+- **Literário**:  
+  *"O livro narra a insurreição de um povo oprimido."*
+
+---
+
+## 4. **暴動 (ぼうどう / Bōdō)**
+
+### Traduções Possíveis:
+- **Distúrbio**
+- **Motim**
+- **Revolta**
+- **Tumulto**
+- **Violência Coletiva**
+
+### Explicação:
+Refere-se a uma ação coletiva de desordem pública, muitas vezes violenta, geralmente em resposta a injustiças.
+
+### Exemplos:
+- **Noticiário**:  
+  *"Os tumultos nas ruas foram provocados por um aumento nos impostos."*  
+- **Estudo Social**:  
+  *"Os distúrbios refletem a insatisfação popular."*
+
+---
+
+## 5. **公正世界仮設 (こうせんせかいかせつ / Kōsen Sekai Kasetsu)**
+
+### Traduções Possíveis:
+- **Hipótese do Mundo Justo**
+- **Teoria do Mundo Justo**
+- **Princípio do Mundo Justo**
+- **Postulado do Mundo Justo**
+- **Suposição do Mundo Justo**
+
+### Explicação:
+Refere-se à crença de que as pessoas recebem o que merecem, e que a justiça prevalece no mundo.
+
+### Exemplos:
+- **Psicologia**:  
+  *"A hipótese do mundo justo pode levar a atitudes preconceituosas."*  
+- **Filosofia**:  
+  *"Debater a teoria do mundo justo é essencial para entender a moralidade."*
+
+---
+
+## 6. **倫理的 (りんりてき / Rinriteki)**
+
+### Traduções Possíveis:
+- **Ético**
+- **Moral**
+- **Deontológico**
+- **Justo**
+- **Correto**
+
+### Explicação:
+Refere-se a princípios que governam o comportamento humano em termos de certo e errado.
+
+### Exemplos:
+- **Filosófico**:  
+  *"A decisão ética deve considerar o bem-estar de todos."*  
+- **Profissional**:  
+  *"As práticas éticas são fundamentais em qualquer profissão."*
+
+---
+
+## 7. **節理 (せつり / Setsuri)**
+
+### Traduções Possíveis:
+- **Providência**
+- **Sabedoria Divina**
+- **Ordem Natural**
+- **Regulador**
+- **Princípio de Causa e Efeito**
+
+### Explicação:
+Refere-se à ideia de que há uma ordem ou propósito subjacente no universo, muitas vezes associado a crenças religiosas ou filosóficas.
+
+### Exemplos:
+- **Teológico**:  
+  *"A providência divina guia os eventos da vida."*  
+- **Filosófico**:  
+  *"A ordem natural é um princípio fundamental na filosofia."*
+
+---
+
+## 8. **縛る (しばる / Shibaru)**
+
+### Traduções Possíveis:
+- **Amarrar**
+- **Prender**
+- **Atar**
+- **Restringir**
+- **Limitar**
+
+### Explicação:
+Refere-se ao ato de prender ou limitar algo, seja fisicamente ou em termos de liberdade.
+
+### Exemplos:
+- **Físico**:  
+  *"Ele amarrou as caixas para que não caíssem."*  
+- **Metafórico**:  
+  *"A burocracia pode restringir a inovação."*
+
+---
+
+## 9. **拝読 (はいどく / Haidoku)**
+
+### Traduções Possíveis:
+- **Ler com respeito**
+- **Ler (humilde)**
+- **Leitura respeitosa**
+- **Estudar (com reverência)**
+- **Consultar (com respeito)**
+
+### Explicação:
+Um termo formal que indica a leitura de algo com respeito, muitas vezes usado ao se referir a textos sagrados ou obras de grande importância.
+
+### Exemplos:
+- **Formal**:  
+  *"Agradeço por me permitir拝読 seu trabalho."*  
+- **Literário**:  
+  *"Sinto-me honrado em拝読 suas cartas."*
+
+---
+
+## 10. **自己効用感 (じここうようかん / Jiko Kōyōkan)**
+
+### Traduções Possíveis:
+- **Autoeficácia**
+- **Sensação de Eficácia Pessoal**
+- **Sentido de Competência**
+- **Autoeficácia**
+- **Confiança em Si Mesmo**
+
+### Explicação:
+Refere-se à crença de um indivíduo em sua capacidade de realizar tarefas e alcançar objetivos.
+
+### Exemplos:
+- **Psicologia**:  
+  *"A autoeficácia é crucial para a motivação."*  
+- **Educação**:  
+  *"Estudantes com alta sensação de eficácia pessoal tendem a ter melhores resultados."*
+
+---
+
+## 11. **報酬系 (ほうしゅうけい / Hōshūkei)**
+
+### Traduções Possíveis:
+- **Sistema de Recompensa**
+- **Caminho de Recompensa**
+- **Rede de Recompensa**
+- **Circuito de Recompensa**
+- **Mecanismo de Recompensa**
+
+### Explicação:
+Refere-se ao conjunto de processos no cérebro que está relacionado à sensação de prazer e recompensa, muitas vezes associado a comportamentos motivacionais.
+
+### Exemplos:
+- **Neurociência**:  
+  *"O sistema de recompensa é ativado ao receber elogios."*  
+- **Psicologia**:  
+  *"Compreender o circuito de recompensa é essencial para tratar vícios."*
+
+---
+
+## 12. **陥る (おちいる / Ochiiru)**
+
+### Traduções Possíveis:
+- **Cair em**
+- **Entrar em**
+- **Sofrer**
+- **Ser arrastado para**
+- **Ficar preso**
+
+### Explicação:
+Refere-se ao ato de entrar em uma situação negativa ou indesejada, muitas vezes involuntariamente.
+
+### Exemplos:
+- **Psicológico**:  
+  *"Ele caiu em um estado de depressão após a perda."*  
+- **Financeiro**:  
+  *"A empresa entrou em dificuldades financeiras devido à má gestão."*
+
+---
+
+## 13. **棚卸し (たなおろし / Tanaoroshi)**
+
+### Traduções Possíveis:
+- **Inventário**
+- **Revisão de Estoque**
+- **Avaliação de Recursos**
+- **Auditoria de Estoque**
+- **Revisão Geral**
+
+### Explicação:
+Refere-se ao processo de revisar e contabilizar o estoque ou os recursos disponíveis, frequentemente utilizado em contextos empresariais.
+
+### Exemplos:
+- **Comercial**:  
+  *"A empresa realiza um inventário semestral para avaliar seus recursos."*  
+- **Financeiro**:  
+  *"A auditoria de estoque revelou discrepâncias nos registros."*
