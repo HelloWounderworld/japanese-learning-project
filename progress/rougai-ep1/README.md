@@ -173,34 +173,197 @@
 
 までの自分の作ってきたのも分かる。それ によって自己肯定感も高まりますし、今 まで解決できてなかった自分のあの 問題点ソリューションも見つかると思い ます。是非自分の脳を大切に自分の脳を 知っていただきたいと思いますね。そう ですね。 その一歩としてこちらの本を読んでいただきながら できるだけそのメタ認知というのができるように私も務めたいなと思いました。本日お忙しい中たくさんのお話ありがとうございました。 ありがとうございました。
 
-## 📘 Vocabulário Japonês - Traduções e Explicações DetalhadasAdd commentMore actions
+## 📘 Vocabulário Japonês com Traduções e Exemplos
 
-### 冒頭
+Este documento contém explicações e traduções detalhadas de vocabulário japonês, com exemplos de uso e múltiplas traduções em português e inglês.
 
-### 経緯
+---
 
-### 予防
+### 冒頭（ぼうとう）
 
-### 妨げる
+#### Explicação:
+Refere-se à parte inicial de um discurso, texto ou evento. Muito utilizado em contextos formais, como relatórios, discursos e apresentações.
 
-### 優越
+#### Exemplos:
+1. 会議の冒頭で社長が挨拶した。  
+   _(O presidente fez um discurso no início da reunião.)_
 
-### 環境脳
+2. 小説の冒頭は非常に印象的だった。  
+   _(O começo do romance foi muito marcante.)_
 
-### 衰え
+#### Traduções possíveis:
+- início / beginning  
+- introdução / introduction  
+- abertura / opening  
+- parte inicial / opening section  
+- começo / start
 
-### 固執
+---
 
-### 距離感
+### 経緯（けいい）
 
-### 
+#### Explicação:
+Indica a sequência de eventos ou circunstâncias que levaram a uma situação. Comum em relatórios, explicações e contextos formais.
 
-### 
+#### Exemplos:
+1. 事業停止の経緯を説明してください。  
+   _(Explique as circunstâncias que levaram à paralisação do negócio.)_
 
-### 
+2. 交渉の経緯はまだ不明だ。  
+   _(As circunstâncias das negociações ainda são desconhecidas.)_
 
-### 
+#### Traduções possíveis:
+- circunstâncias / circumstances  
+- histórico / background  
+- trajetória / course of events  
+- desenvolvimento / development  
+- sequência / sequence
 
-### 
+---
 
-### 
+### 予防（よぼう）
+
+#### Explicação:
+Ato de prevenir ou tomar medidas para evitar algo, geralmente relacionado à saúde, acidentes ou problemas futuros.
+
+#### Exemplos:
+1. インフルエンザの予防接種を受けた。  
+   _(Recebi a vacina preventiva contra a gripe.)_
+
+2. 火災予防のために点検を行う。  
+   _(Realizaremos uma inspeção para prevenir incêndios.)_
+
+#### Traduções possíveis:
+- prevenção / prevention  
+- precaução / precaution  
+- profilaxia / prophylaxis  
+- medida preventiva / preventative measure  
+- proteção antecipada / early protection
+
+---
+
+### 妨げる（さまたげる）
+
+#### Explicação:
+Verbo que significa "obstruir", "impedir" ou "atrapalhar" o progresso de algo. Usado tanto em contextos físicos quanto mentais ou sociais.
+
+#### Exemplos:
+1. 交通渋滞が時間通りの到着を妨げた。  
+   _(O congestionamento impediu a chegada pontual.)_
+
+2. 怒りは冷静な判断を妨げる。  
+   _(A raiva atrapalha o julgamento racional.)_
+
+#### Traduções possíveis:
+- impedir / hinder  
+- obstruir / obstruct  
+- atrapalhar / disrupt  
+- bloquear / block  
+- interferir / interfere
+
+---
+
+### 優越（ゆうえつ）
+
+#### Explicação:
+Superioridade ou sentimento de estar acima de outros. Pode ser usado em contextos sociais, psicológicos ou comparativos.
+
+#### Exemplos:
+1. 彼は他人に対する優越感が強い。  
+   _(Ele tem um forte sentimento de superioridade em relação aos outros.)_
+
+2. 技術面での優越が企業の成功を導いた。  
+   _(A superioridade técnica levou ao sucesso da empresa.)_
+
+#### Traduções possíveis:
+- superioridade / superiority  
+- vantagem / advantage  
+- domínio / dominance  
+- primazia / preeminence  
+- ascensão / ascendancy
+
+---
+
+### 環境脳（かんきょうのう）
+
+#### Explicação:
+Termo moderno e pouco comum que combina "ambiente" (環境) com "cérebro" (脳), podendo se referir à forma como o cérebro interage com o ambiente ou é moldado por ele. Também pode ser usado em neurociência ambiental ou psicologia ecológica.
+
+#### Exemplos:
+1. 環境脳の発達は幼少期に影響される。  
+   _(O desenvolvimento do cérebro ambiental é influenciado na infância.)_
+
+2. 環境脳科学は新しい研究分野です。  
+   _(A neurociência ambiental é um novo campo de pesquisa.)_
+
+#### Traduções possíveis:
+- cérebro ambiental / environmental brain  
+- neurociência ambiental / environmental neuroscience  
+- mente ecológica / ecological mind  
+- processamento ambiental / environmental cognition  
+- percepção ambiental / environmental perception
+
+---
+
+### 衰え（おとろえ）
+
+#### Explicação:
+Declínio, enfraquecimento ou deterioração de capacidades físicas, mentais ou estruturas sociais.
+
+#### Exemplos:
+1. 年齢とともに体力の衰えを感じる。  
+   _(Sinto um declínio na força física com a idade.)_
+
+2. 経済力の衰えが懸念されている。  
+   _(Há preocupação com o enfraquecimento econômico.)_
+
+#### Traduções possíveis:
+- declínio / decline  
+- deterioração / deterioration  
+- enfraquecimento / weakening  
+- perda / loss  
+- regressão / regression
+
+---
+
+### 固執（こしつ）
+
+#### Explicação:
+Ato de se apegar obstinadamente a uma opinião, hábito ou ideia. Pode ser positivo (firmeza) ou negativo (teimosia).
+
+#### Exemplos:
+1. 彼は自分の考えに固執している。  
+   _(Ele está preso à sua própria opinião.)_
+
+2. 古い方法に固執するのは効率が悪い。  
+   _(Apegar-se a métodos antigos é ineficiente.)_
+
+#### Traduções possíveis:
+- teimosia / stubbornness  
+- insistência / insistence  
+- obstinação / obstinacy  
+- apego / attachment  
+- rigidez / rigidity
+
+---
+
+### 距離感（きょりかん）
+
+#### Explicação:
+Sensação ou percepção de distância — física, emocional ou social — entre pessoas ou coisas.
+
+#### Exemplos:
+1. 彼とは適切な距離感を保ちたい。  
+   _(Quero manter uma distância adequada com ele.)_
+
+2. 距離感のない言動はトラブルのもとになる。  
+   _(Comportamentos sem senso de distância podem causar problemas.)_
+
+#### Traduções possíveis:
+- senso de distância / sense of distance  
+- percepção de proximidade / perception of closeness  
+- distanciamento / detachment  
+- espaço interpessoal / interpersonal space  
+- limite pessoal / personal boundary
+
+---
